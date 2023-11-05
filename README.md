@@ -10,7 +10,7 @@ Le principal objectif de ce projet est de prédire si un médicament produit ser
 Clone the project
 
 ```bash
-    git clone(https://github.com/Aida73/M2DS-Drugs-Authorization-Classification.git)
+    git clone https://github.com/Aida73/M2DS-Drugs-Authorization-Classification.git
 ```
 
 Créer et activer un environnement virtuel avec `virtualenv`.
